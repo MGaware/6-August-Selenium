@@ -1,0 +1,10 @@
+
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="TestNG.suite3"/>
+      <class name="TestNG.suite2"/>
+      <class name="TestNG.suite1"/>
+    </classes>
+  </test> 
+</suite> 
